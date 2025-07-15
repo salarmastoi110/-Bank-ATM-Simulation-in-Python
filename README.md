@@ -55,5 +55,5 @@ bank_atm_simulation/
 📜 License
 This project is open-source and free to use for educational purposes.
 
-<p align="center"> Made with ❤️ by <a href="https://github.com/salarmastoi110" target="_blank">Salaar Mastoi</a> </p> ```
-
+ ```
+<p align="center"> Made with ❤️ by <a href="https://github.com/salarmastoi110" target="_blank">Salaar Mastoi</a> </p>
